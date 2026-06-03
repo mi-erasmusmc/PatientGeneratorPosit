@@ -1,0 +1,3 @@
+library(PatientGenerator)
+
+PatientGenerator::patientDesigner()  

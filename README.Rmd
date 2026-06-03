@@ -1,0 +1,8 @@
+---
+title: "PatientGenerator Launcher"
+output: html_document
+---
+
+# Project Overview
+
+This is a simple project designed to launch instances of [PatientGenerator](https://github.com/OHDSI/PatientGenerator/) to a **Posit Connect** server.
