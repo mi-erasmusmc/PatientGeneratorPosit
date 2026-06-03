@@ -11,13 +11,11 @@ knitr::opts_chunk$set(
 )
 ```
 
-# PatientGeneratorPosit
-
 <!-- badges: start -->
 <!-- badges: end -->
 
 ---
-title: "PatientGenerator Launcher"
+title: "PatientGeneratorPosit"
 output: html_document
 ---
 

@@ -1,9 +1,7 @@
-PatientGenerator Launcher
+PatientGeneratorPosit
 ================
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
-# PatientGeneratorPosit
 
 <!-- badges: start -->
 
