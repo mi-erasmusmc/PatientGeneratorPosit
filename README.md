@@ -7,7 +7,7 @@ PatientGeneratorPosit
 
 <!-- badges: end -->
 
-# Project Overview
+### Project Overview
 
 This is a simple project designed to launch instances of
 [PatientGenerator](https://github.com/OHDSI/PatientGenerator/) to a
